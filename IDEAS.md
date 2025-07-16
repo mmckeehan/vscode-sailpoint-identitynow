@@ -5,3 +5,4 @@
 - Bring telemetry
 - Have log
 - Update accounts for CSV or NELM source
+- Add functionality to modify email templates in VSCode
